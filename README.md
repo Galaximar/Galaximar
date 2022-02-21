@@ -7,5 +7,5 @@ Mi nombre es Marcelo Gottardini y soy Full Stack Web Developer || BackEnd || Fro
 - 🔭 Me encuentro en la última instancia del Botcamp de Henry (https://www.soyhenry.com/) y en tercer y medio año de Licenciatura en Física
 - 📚 Tecnologías aprendidas: JavascRipt, ReactJS, ReduxJs, NodeJs, ExpressJs, Sequelize, PostgreSQL. Con ganas de mejorar y aprender nuevas.
 - 👯 Estoy en búsqueda de trabajo como Desarrollador Web
-- 📫 No dudes en contactarme: [Linkedin](https://www.linkedin.com/in/marcelogottardini) Gmail: marcelogottardini00@gmail.com
+- 📫 No dudes en contactarme: [Linkedin](https://www.linkedin.com/in/marcelogottardini) [Gmail](marcelogottardini00@gmail.com): marcelogottardini00@gmail.com
 
