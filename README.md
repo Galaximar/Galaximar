@@ -6,7 +6,7 @@ Mi nombre es Marcelo Gottardini y soy Full Stack Web Developer || BackEnd || Fro
 
 - 🔭 Estudie en el bootcamp de Henry (https://www.soyhenry.com/) y en tercer y medio año de Licenciatura en Física
 - 📚 Tecnologías aprendidas: JavascRipt, ReactJS, ReduxJs, NodeJs, ExpressJs, Sequelize, PostgreSQL. Con ganas de mejorar y aprender nuevas.
-- 📁 Proyectos: [FoodApi](https://github.com/Galaximar/FoodApi)
+- 📁 Proyectos: [Portfolio Web](https://marcelogottardini.vercel.app/)
 - 👯 Estoy en búsqueda de trabajo como Desarrollador Web 
 - 📫 No dudes en contactarme: [Linkedin](https://www.linkedin.com/in/marcelogottardini), [Gmail](marcelogottardini00@gmail.com): marcelogottardini00@gmail.com
 
